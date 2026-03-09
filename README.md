@@ -12,7 +12,7 @@ I'm a 2nd-year SE student at the University of Phayao, actively seeking a **Fron
 ## 🔥 Featured Projects
 
 ### 👶 [Baby Tracker](https://github.com/Nut-Natthawut/baby-tracker)
-A comprehensive and modern web application for parents to efficiently track and manage their baby's daily activities (feeding, sleep, diapers) with collaborative features.
+A comprehensive web application for parents to efficiently track their baby's daily activities with collaborative features.
 - **My Role (Frontend Developer / UI Designer):** - Designed and implemented the Landing Page and core tracking interfaces (BabySwitcher, SleepModal).
   - Built the Authentication & Invitation UI flow.
   - Developed reusable UI components utilizing **shadcn/ui** and **Tailwind CSS**.
@@ -20,9 +20,12 @@ A comprehensive and modern web application for parents to efficiently track and 
 - **Tech Stack:** React 18, TypeScript, Vite, Tailwind CSS, shadcn/ui.
 
 ### 🥐 [Mini Bakery POS](https://github.com/Nut-Natthawut/Mini_bakery_POS.git)
-A full-stack web application designed for small bakery shops to manage products, orders, and automated receipts efficiently.
-- **Role:** Collaborated in a 4-member agile team, focusing on UI components, routing, and full-stack integration.
-- **Tech Stack:** Next.js 14 (App Router), React 18, Tailwind CSS, Prisma ORM, PostgreSQL.
+A full-stack POS system designed for small bakery shops to manage products, orders, and automated receipts.
+- **My Role (Frontend Developer):** - Engineered the interactive user interface and dashboard routing using **Next.js 14 (App Router)** and **React 18**.
+  - Styled fast and responsive layouts utilizing **Tailwind CSS**.
+  - Implemented modern UI building blocks with **ShadCN / Radix UI** for an intuitive user experience.
+  - Connected frontend views with server actions for real-time order processing and menu management.
+- **Tech Stack:** Next.js 14, React 18, Tailwind CSS, ShadCN, Prisma ORM, PostgreSQL.
 
 ## 🛠️ Tech Stack & Tools
 
@@ -51,5 +54,5 @@ A full-stack web application designed for small bakery shops to manage products,
 </div>
 
 ## 📫 Let's Connect
-- **Email:** taechonlakon@gmail.com
-- **LinkedIn:** 
+- **Email:** [ใส่อีเมลของคุณที่นี่]
+- **LinkedIn:** [ใส่ลิงก์ LinkedIn ของคุณที่นี่]
