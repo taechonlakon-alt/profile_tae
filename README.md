@@ -51,5 +51,5 @@ A full-stack web application designed for small bakery shops to manage products,
 </div>
 
 ## 📫 Let's Connect
-- **Email:** [ใส่อีเมลของคุณที่นี่]
-- **LinkedIn:** [ใส่ลิงก์ LinkedIn ของคุณที่นี่]
+- **Email:** taechonlakon@gmail.com
+- **LinkedIn:** 
